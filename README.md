@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/cover.jpg" alt="一只白色小狗与一只橘色小猫依偎休息" width="820" />
+  <img src="assets/cover.png" alt="应县木塔的 3D 分层拆解画面，右侧写着「层层展开，看见暗层」" width="820" />
 </p>
 
 <p align="center">从一张想法出发，做出会随着滚动展开的 3D 网站。</p>
